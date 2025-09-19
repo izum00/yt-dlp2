@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.19.2",
-    "yt-dlp-exec": "^2.1.4"
+    "yt-dlp-exec": "^1.0.2"
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
